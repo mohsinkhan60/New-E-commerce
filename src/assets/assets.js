@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import bell_icon from './bell.png'
 import home_icon from './home.png'
 import like_icon from './like.png'
